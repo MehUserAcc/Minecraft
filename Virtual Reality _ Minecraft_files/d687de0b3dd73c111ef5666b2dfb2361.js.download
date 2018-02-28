@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;window.ClickTalePIISelector="button#profiledd1,div.view-validate-email";$("\x3cstyle type\x3d'text/css'\x3e#clicktaleCrossDomain{ display:none;} \x3c/style\x3e").appendTo("head")},2336402,472883);
